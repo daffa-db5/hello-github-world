@@ -3,3 +3,4 @@ Hello Github.com!
 - im here to learn about github and how to use it for managing my projects :D
 - and also upload my projects here
 - mastering git and github ;)
+- solving coding interview problems :D
