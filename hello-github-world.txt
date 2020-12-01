@@ -4,3 +4,6 @@ Hello Github.com!
 - and also upload my projects here
 - mastering git and github ;)
 - solving coding interview problems :D
+
+- learn how to use branch :)
+- its kinda easy i think
